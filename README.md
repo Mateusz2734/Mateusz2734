@@ -10,7 +10,7 @@ My journey with coding started in 2017, when I wrote my first "Hello World" in P
 * 🏫 I'm a Computer Science student at AGH University of Science and Technology
 * ✉️ You can contact me at [mateusz.wala2734@gmail.com](mailto:mateusz.wala2734@gmail.com)
 * 🚀 I'm currently working on [URL Shortener](http://github.com/Mateusz2734/url-shortener)
-* 🧠 I'm learning Vue.js and TypeScript
+* 🧠 I'm learning React and TypeScript
 
 ### Skills
 
