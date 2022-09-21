@@ -1,7 +1,7 @@
 Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mateusz Wala
 ====================================================================================================================================
 
-Aspiring Web Developer
+Web Developer
 ----------------------
 
 My journey with coding started in 2017, when I wrote my first "Hello World" in Python. Recently, I've switched my main programming language to JavaScript
