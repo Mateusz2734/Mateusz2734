@@ -6,7 +6,7 @@ Web Developer
 
 My journey with coding started in 2017, when I wrote my first "Hello World" in Python. Recently, I've switched my main programming language to JavaScript
 
-* 🌍 I'm based in Katowice, Poland
+* 🌍 I'm based in Katowice, Poland and Kraków, Poland
 * 🏫 I'm a Computer Science student at AGH University of Science and Technology
 * ✉️ You can contact me at [mateusz.wala2734@gmail.com](mailto:mateusz.wala2734@gmail.com)
 * 🚀 I'm currently working on some cool stuff
