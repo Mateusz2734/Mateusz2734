@@ -1,16 +1,16 @@
 Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mateusz Wala
 ====================================================================================================================================
 
-Web Developer
+Software Engineer
 ----------------------
 
-My journey with coding started in 2017, when I wrote my first "Hello World" in Python. Recently, I've switched my main programming language to JavaScript
+My journey with coding started in 2017, when I wrote my first "Hello World" in Python.
 
-* 🌍 I'm based in Katowice, Poland and Kraków, Poland
+* 🌍 I'm based in Kraków, Poland
 * 🏫 I'm a Computer Science student at AGH University of Science and Technology
 * ✉️ You can contact me at [mateusz.wala2734@gmail.com](mailto:mateusz.wala2734@gmail.com)
-* 🚀 I'm currently working on some cool stuff
-* 🧠 I'm learning Go and C
+* 🚀 I'm currently working on some cool stuff!
+* 🧠 I'm learning Golang
 
 ### Skills
 
